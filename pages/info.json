@@ -1,0 +1,221 @@
+{
+    "AnnualCrop": {
+      "description": "Annual crops are plants that are cultivated for a single growing season. These crops complete their life cycle—from germination to seed production—within one year. After harvest, the fields are typically replanted with new crops.",
+      "key_characteristics": [
+        "Short growth cycle (less than a year)",
+        "Require seasonal sowing and harvesting",
+        "Susceptible to weather variations and pests"
+      ],
+      "common_uses": [
+        "Food grain production (e.g., wheat, maize)",
+        "Legume cultivation for dietary protein",
+        "Cash crops for quick economic returns"
+      ],
+      "land_requirements": [
+        "Well-prepared and fertile soil",
+        "Proper irrigation or rainfall planning",
+        "Moderate to high nutrient demand"
+      ],
+      "recommendation": "Suitable for short-duration crops like wheat, maize, and pulses. Employ crop rotation and intercropping to maintain soil fertility and control pests.",
+      "calendar": {
+        "Wheat": "Sow in November, harvest in March",
+        "Maize": "Sow in June, harvest in October",
+        "Pulses": "Sow in July, harvest in September"
+      },
+      "climate": {
+        "Wheat": "Cool climate, 15–20°C, low rainfall",
+        "Maize": "Warm, 20–30°C, requires good sunlight",
+        "Pulses": "Moderate, 20–25°C, light rainfall"
+      }
+    },
+    "Forest": {
+      "description": "Forests are natural or managed ecosystems dominated by trees and rich biodiversity. These areas are typically not suitable for intensive agriculture due to shade and ecological sensitivity.",
+      "key_characteristics": [
+        "Dense tree cover",
+        "High biodiversity and ecological balance",
+        "Lower light penetration to the ground level"
+      ],
+      "common_uses": [
+        "Agroforestry and silviculture",
+        "Harvesting of medicinal herbs and forest products",
+        "Biodiversity conservation"
+      ],
+      "land_requirements": [
+        "Minimal disturbance to native vegetation",
+        "Shade-tolerant crops and non-invasive species",
+        "Soil conservation practices"
+      ],
+      "recommendation": "Not suitable for intensive agriculture. Promote agroforestry with species like bamboo, medicinal herbs, or shade-loving crops such as turmeric and ginger.",
+      "calendar": {
+        "Bamboo": "Plant in monsoon (June–August), harvest in 3–5 years",
+        "Medicinal Herbs": "Plant in spring, harvest year-round depending on species"
+      },
+      "climate": {
+        "Bamboo": "Warm and humid climate, 20–35°C",
+        "Medicinal Herbs": "Shaded, moist, varies by herb"
+      }
+    },
+    "HerbaceousVegetation": {
+      "description": "Herbaceous vegetation refers to low-growing plants that do not develop woody stems and usually die back at the end of the growing season. These lands are good for temporary grazing and seasonal crops.",
+      "key_characteristics": [
+        "Non-woody plant structures",
+        "Short to medium height vegetation",
+        "Often fast-growing and seasonal"
+      ],
+      "common_uses": [
+        "Fodder production for livestock",
+        "Medicinal and aromatic plant cultivation",
+        "Seasonal herb farming"
+      ],
+      "land_requirements": [
+        "Moderate fertility soil",
+        "Access to seasonal irrigation or rainfall",
+        "Minimal soil erosion"
+      ],
+      "recommendation": "Ideal for fodder crops and medicinal plants. Use for grazing, essential oil plants like lemongrass, or seasonal herbs like basil.",
+      "calendar": {
+        "Fodder Grass": "Sow in June, cut every 45–60 days",
+        "Lemongrass": "Plant in May, harvest starting from 4 months"
+      },
+      "climate": {
+        "Fodder Grass": "Tropical, 25–35°C, good moisture",
+        "Lemongrass": "Warm climate, well-drained soil, 20–30°C"
+      }
+    },
+    "Pasture": {
+      "description": "Pasture land is designated for grazing animals. These lands are managed to maintain grass cover for livestock such as cows, goats, and sheep.",
+      "key_characteristics": [
+        "Perennial grass cover",
+        "Used primarily for grazing",
+        "Requires regular maintenance to prevent overgrazing"
+      ],
+      "common_uses": [
+        "Livestock grazing and fodder harvesting",
+        "Fodder bank development",
+        "Soil conservation and water retention"
+      ],
+      "land_requirements": [
+        "Flat to slightly sloped terrain",
+        "Regular reseeding and manure input",
+        "Fencing and rotational grazing"
+      ],
+      "recommendation": "Maintain as livestock grazing area. Introduce legume-based fodder like Lucerne for improved protein yield and nitrogen fixation.",
+      "calendar": {
+        "Napier Grass": "Plant in April, harvest every 45–60 days",
+        "Lucerne": "Sow in October, harvest 5–6 times a year"
+      },
+      "climate": {
+        "Napier Grass": "Warm and humid, 25–35°C",
+        "Lucerne": "Cool and dry, 15–25°C"
+      }
+    },
+    "PermanentCrop": {
+      "description": "Permanent crops are perennial plants such as fruit trees, coffee, or tea that do not need to be replanted after each harvest. These provide long-term yields.",
+      "key_characteristics": [
+        "Long lifespan (years to decades)",
+        "Do not require annual replanting",
+        "Yield improves with maturity and care"
+      ],
+      "common_uses": [
+        "Fruit production (e.g., mango, banana)",
+        "Beverage crops (e.g., coffee, tea)",
+        "Perennial herb and spice farming"
+      ],
+      "land_requirements": [
+        "Well-drained, nutrient-rich soil",
+        "Long-term water availability",
+        "Protection from strong winds and pests"
+      ],
+      "recommendation": "Excellent for long-term investments in fruit trees or coffee. Use drip irrigation, mulching, and regular pruning to boost yield and sustainability.",
+      "calendar": {
+        "Coffee": "Plant in June, harvest in November–January",
+        "Mango": "Plant in monsoon, harvest in April–June"
+      },
+      "climate": {
+        "Coffee": "Cool and humid, 15–24°C",
+        "Mango": "Warm and dry, 24–30°C"
+      }
+    },
+    "Residential": {
+      "description": "Residential land is developed for housing and urban infrastructure. While unsuitable for large-scale farming, small-scale gardening is possible.",
+      "key_characteristics": [
+        "High human population density",
+        "Limited open land",
+        "Access to utilities (water, electricity)"
+      ],
+      "common_uses": [
+        "Rooftop and vertical gardening",
+        "Potted vegetable cultivation",
+        "Community gardens"
+      ],
+      "land_requirements": [
+        "Containers or raised beds",
+        "Access to sunlight and water",
+        "Urban composting options"
+      ],
+      "recommendation": "Not suitable for commercial farming. Try rooftop gardening or vertical farming with leafy vegetables and herbs. Recycle household organic waste as compost.",
+      "calendar": {
+        "Spinach": "Sow anytime, harvest every 30–45 days",
+        "Tomato (in pots)": "Plant year-round in warm climates, harvest in 3 months"
+      },
+      "climate": {
+        "Spinach": "Mild, 15–25°C, partial sun",
+        "Tomato": "Warm and sunny, 20–30°C"
+      }
+    },
+    "River": {
+      "description": "River land includes areas along riverbanks and floodplains, often rich in nutrients but prone to seasonal flooding. Water availability is high.",
+      "key_characteristics": [
+        "High soil fertility due to sediment deposits",
+        "Periodic flooding risks",
+        "Excellent water access"
+      ],
+      "common_uses": [
+        "Water-intensive crop cultivation",
+        "Wetland farming",
+        "Aquaculture and integrated systems"
+      ],
+      "land_requirements": [
+        "Flood-resistant crop varieties",
+        "Raised bed farming or bunding",
+        "Drainage infrastructure"
+      ],
+      "recommendation": "Excellent for water-intensive crops like rice and jute. Use raised bed or floating farming techniques in flood-prone zones to reduce risk.",
+      "calendar": {
+        "Rice": "Sow in June, transplant in July, harvest in November",
+        "Jute": "Sow in March–April, harvest in July–August"
+      },
+      "climate": {
+        "Rice": "Hot and humid, 25–35°C, high rainfall",
+        "Jute": "Warm and wet, 24–32°C"
+      }
+    },
+    "SeaLake": {
+      "description": "Sea and lake land types are coastal or inland water-adjacent zones that offer opportunities for aquaculture and salt-tolerant crops. These areas face challenges like high salinity and erosion.",
+      "key_characteristics": [
+        "Proximity to saltwater or brackish water",
+        "High salinity and potential for soil erosion",
+        "Sensitive to climatic changes"
+      ],
+      "common_uses": [
+        "Aquaculture (fish, shrimp)",
+        "Salt-tolerant crop cultivation",
+        "Mangrove and coastal vegetation farming"
+      ],
+      "land_requirements": [
+        "Salinity management",
+        "Coastal bunding and erosion control",
+        "Brackish water tolerance"
+      ],
+      "recommendation": "Ideal for coastal aquaculture or salt-tolerant crops like quinoa and coconut. Ensure salinity control through bunding, gypsum, or bio-remediation techniques.",
+      "calendar": {
+        "Shrimp": "Stock in March, harvest in July",
+        "Quinoa": "Sow in October, harvest in March"
+      },
+      "climate": {
+        "Shrimp": "Saline/brackish water, 25–30°C",
+        "Quinoa": "Cool and dry, 15–25°C, moderate salinity"
+      }
+    }
+  }
+  

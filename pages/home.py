@@ -18,7 +18,7 @@ idx_to_class = [
 ]
 
 # Load crop info JSON
-with open("data/info.json", "r") as f:
+with open("info.json", "r") as f:
     crop_info = json.load(f)
 
 # Preprocessing pipeline

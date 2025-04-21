@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 
-with open("data/crop_data.json", "r") as f:
+with open("crop_data.json", "r") as f:
     crop_info = json.load(f)
 
 def app():

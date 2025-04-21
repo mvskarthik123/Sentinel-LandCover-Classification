@@ -1,0 +1,81 @@
+{
+    "AnnualCrop": {
+      "recommendation": "Optimal for intensive food production such as cereals and legumes. The area is best suited for crops that can be completed within a single growing season.",
+      "calendar": {
+        "Wheat": "Sowing: Late October to November | Harvesting: April to May",
+        "Maize": "Sowing: May to June | Harvesting: September to October",
+        "Soybean": "Sowing: May to June | Harvesting: October to November"
+      },
+      "climate": {
+        "Wheat": "Ideal temperatures: 10-15°C at sowing, 21-26°C at harvest; moderate rainfall.",
+        "Maize": "Optimal temperature: 20-30°C; needs consistent rainfall of 500-800 mm.",
+        "Soybean": "Preferred range: 20-30°C; well-distributed rainfall throughout the season."
+      }
+    },
+    "Forest": {
+      "recommendation": "Not generally used for agriculture. Suitable for timber production, biodiversity conservation, and eco-tourism initiatives.",
+      "calendar": {},
+      "climate": {}
+    },
+    "HerbaceousVegetation": {
+      "recommendation": "Suitable for cultivating medicinal, aromatic, and fodder plants. Also ideal for cover cropping to reduce soil erosion.",
+      "calendar": {
+        "Medicinal Herbs": "Sowing: Spring | Harvesting: Summer",
+        "Forage Grass": "Sowing: Early Spring | Maintenance: Throughout the growing season"
+      },
+      "climate": {
+        "Medicinal Herbs": "Temperatures: 15-25°C; requires moderate, consistent rainfall.",
+        "Forage Grass": "Optimal at 18-28°C; needs regular, light rainfall."
+      }
+    },
+    "Pasture": {
+      "recommendation": "Best suited for grazing and fodder production. Maintain a mix of grasses and legumes to support livestock health.",
+      "calendar": {
+        "Grass Mix": "Sowing: Early Spring | First Harvest: Late Summer",
+        "Legumes": "Sowing: Early Spring | Replenishment: Post-harvest in Autumn"
+      },
+      "climate": {
+        "Grass Mix": "Ideal conditions: 20-25°C with consistent, moderate rainfall (around 600 mm annually).",
+        "Legumes": "Prefer temperatures around 18-27°C; require well-distributed rainfall."
+      }
+    },
+    "PermanentCrop": {
+      "recommendation": "Ideal for high-value plantations where the crops remain for several years. Suitable for fruit trees, coffee, or vineyards.",
+      "calendar": {
+        "Grapes": "Pruning and maintenance: Winter | Harvesting: Late Summer to Autumn",
+        "Coffee": "Flowering: September to November | Harvesting: December to March"
+      },
+      "climate": {
+        "Grapes": "Optimal temperature: 15-25°C; moderate to low rainfall.",
+        "Coffee": "Preferred conditions: 18-24°C; require well-distributed rainfall around 1500-2000 mm."
+      }
+    },
+    "Residential": {
+      "recommendation": "Primarily urban areas. Limited space for large-scale agriculture. Best used for ornamental plants, rooftop gardens, or community farming initiatives.",
+      "calendar": {},
+      "climate": {}
+    },
+    "River": {
+      "recommendation": "Highly fertile floodplain areas are ideal for water-intensive crops. Adapt your practices to manage periodic flooding.",
+      "calendar": {
+        "Rice": "Sowing: June to July | Harvesting: October to November",
+        "Jute": "Sowing: April to May | Harvesting: August to September"
+      },
+      "climate": {
+        "Rice": "Warm and humid climate with temperatures around 25-35°C; requires flooding or heavy irrigation.",
+        "Jute": "Optimal temperature: 20-30°C; needs a humid environment with consistent rainfall."
+      }
+    },
+    "SeaLake": {
+      "recommendation": "Areas near large water bodies are ideal for specialized crops that tolerate saline conditions. Consider aquaculture and salt farming as well.",
+      "calendar": {
+        "Salt-Tolerant Vegetables": "Sowing: Spring | Harvesting: Late Summer",
+        "Aquaculture": "Year-round operations with seasonal adjustments"
+      },
+      "climate": {
+        "Salt-Tolerant Vegetables": "Best grown at temperatures 20-30°C; may require brackish water management.",
+        "Aquaculture": "Requires stable water temperatures around 20-28°C; dependent on local water quality."
+      }
+    }
+  }
+  
